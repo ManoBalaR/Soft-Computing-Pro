@@ -1,5 +1,5 @@
-Digit recognition with neural network 
-=====================================
+# Digit recognition with neural network 
+
 
 Sample implementation of neural networks.
 Ground up implementation in Python.
@@ -12,3 +12,4 @@ Required libraries:
  - numpy
  - pygame
 
+## Interface :
