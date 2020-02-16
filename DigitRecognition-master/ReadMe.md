@@ -13,3 +13,4 @@ Required libraries:
  - pygame
 
 ## Interface :
+![](https://raw.githubusercontent.com/ManoBalaR/Soft-Computing-Project/master/Screenshot.png)
